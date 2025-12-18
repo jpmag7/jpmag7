@@ -3,7 +3,7 @@
 
 - 🧠 Master's specialized in Intelligent Systems (ML/DL) and Application Engineering
 
-- 👷🏼 Working as an R&D engineer developing AI conversational systems at Primetag
+- 👷🏼 Working as an R&D engineer developing AI conversational systems at [Primetag](https://primetag.com)
 
 - 🔭 One of the developers at [CrowdFlow](https://www.crowdflow.pt)
 
