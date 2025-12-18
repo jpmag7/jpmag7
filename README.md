@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pedro Magalhães</h1>
-<h3 align="center">Studying at UMinho, Master's in Informatics Engineering</h3>
+<h3 align="center">I'm a Machine Learning Engineer</h3>
 
-- 🧠 Master's specialized in Intelligent Systems (AI) and Application Engineering
-  
-- 🔭 I’m currently developing [CrowdFlow](https://www.crowdflow.pt)
+- 🧠 Master's specialized in Intelligent Systems (ML/DL) and Application Engineering
+
+- 👷🏼 Working a R&D engineer developing AI conversational systems at Primetag
+
+- 🔭 One of the developers at [CrowdFlow](https://www.crowdflow.pt)
 
 <!--- 👨‍💻 Check out my [portfolio](https://jpmag7.github.io/portfolio/)-->
 
