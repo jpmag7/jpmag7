@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pedro Magalhães</h1>
+<h1 align="center">Hi 👋 I'm Pedro Magalhães</h1>
 <h3 align="center">I'm a Machine Learning Engineer</h3>
 
 - 🧠 Master's specialized in Intelligent Systems (ML/DL) and Application Engineering
 
-- 👷🏼 Working a R&D engineer developing AI conversational systems at Primetag
+- 👷🏼 Working as an R&D engineer developing AI conversational systems at Primetag
 
 - 🔭 One of the developers at [CrowdFlow](https://www.crowdflow.pt)
 
